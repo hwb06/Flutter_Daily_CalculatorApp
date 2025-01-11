@@ -1,16 +1,82 @@
-# flutter_daily_calculator_app
+# Flutter_Daily_CalculatorApp
+ 
+## **Project Description**
 
-A new Flutter project.
+♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern, feature-rich calculator application built with Flutter that combines elegant design with practical functionality. The app includes a welcoming onboarding screen and a professional calculator interface with smooth animations and a clean layout.
 
-## Getting Started
+![Daily Calculator App](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/Daily%20Calcu.%20Mockup.JPG?raw=true)  
 
-This project is a starting point for a Flutter application.
+## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
+ ## *Wᴇʟᴄᴏᴍᴇ Sᴄʀᴇᴇɴ*:
+  - Clean and minimalist design
+  - Engaging onboarding experience
+  - Smooth transition to calculator interface
 
-A few resources to get you started if this is your first Flutter project:
+ ## *Cᴀʟᴄᴜʟᴀᴛᴏʀ Fᴇᴀᴛᴜʀᴇs*:
+  - Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+  - Percentage calculations
+  - Positive/Negative number toggle
+  - Clear function (C)
+  - Decimal point support
+  - Real-time calculation display
+  - Previous operation history display
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ## *UI/UX Fᴇᴀᴛᴜʀᴇs*:
+  - Modern purple-blue color scheme
+  - Responsive button layout
+  - Smooth animations
+  - Error-free calculations
+  - User-friendly interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Technical Specifications**
+ ## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
+- 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality.
+- Material Design Components
+
+- This is a front-end implementation meant to showcase Flutter interface design capabilities.
+
+## ♥ **Aʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ**:
+  *lib/
+  ├── main.dart
+  ├── screens/
+  │   ├── welcome_screen.dart
+  │   └── calculator_screen.dart
+  ├── widgets/
+  │   └── calculator_button.dart
+  └── utils/
+      └── constants.dart*
+      
+## **Usage Examples**
+ ## ♥ **Bᴀsɪᴄ Cᴀʟᴄᴜʟᴀᴛɪᴏɴs**:
+  1. Enter numbers using the number pad
+  2. Select an operation (+, -, ×, ÷)
+  3. Enter the second number
+  4. Press = to see the result
+
+## ♥ **Sᴘᴇᴄɪᴀʟ Fᴜɴᴄᴛɪᴏɴs**:
+ - C: Clears all input and history
+ - +/-: Toggles between positive and negative numbers
+ - %: Converts number to percentage
+ - .: Adds decimal point for floating numbers
+
+## **App UIs Screenshots**
+Here are some screenshots of the app:
+
+![Welcome Screen](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/Welcome%20Screen.JPG?raw=true)  
+![Main Dashboard](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/Daily%20Calculator.JPG?raw=true)  
+![Daily Calculator App Sample#01](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/Daily%20Calculatorr%201.JPG?raw=true)  
+![Daily Calculator App Sample#02](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/Daily%20Calculatorr%202.JPG?raw=true)  
+
+## **Acknowledgments**
+ - Design inspired by modern calculator applications
+ - Built with Flutter's material design components
+ - Special thanks to the Flutter community
+
+## **Contact Information**
+If you have any questions or feedback, feel free to reach out:
+
+- Email: hussnainwaheed864@gmail.com
+- GitHub: [@hwb06](https://github.com/hwb06)
+
+## **Project Status**
+The project is currently in active development. New features and improvements are being added regularly.
