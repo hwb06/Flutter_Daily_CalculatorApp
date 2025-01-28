@@ -62,8 +62,8 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Welcome Screen](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/Project%20Showcase/01.png)  
-![Main Dashboard](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/Project%20Showcase/02.png)  
+![Welcome Screen](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/assets/Project%20Showcase/01.png)  
+![Main Dashboard](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/assets/Project%20Showcase/02.png)  
 
 ## **Acknowledgments**
  - Design inspired by modern calculator applications
