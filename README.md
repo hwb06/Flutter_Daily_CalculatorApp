@@ -4,7 +4,7 @@
 
 ♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern, feature-rich calculator application built with Flutter that combines elegant design with practical functionality. The app includes a welcoming onboarding screen and a professional calculator interface with smooth animations and a clean layout.
 
-![Daily Calculator App](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/Project%20Showcase/Daily%20Calcu.%20Mockup.JPG?raw=true)  
+![Daily Calculator App](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/assets/Daily%20Calcu.%20Mockup.JPG)  
 
 ## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
  ## *Wᴇʟᴄᴏᴍᴇ Sᴄʀᴇᴇɴ*:
@@ -62,8 +62,8 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Welcome Screen](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/01.png)  
-![Main Dashboard](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/App_UI_Screens/02.png)  
+![Welcome Screen](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/Project%20Showcase/01.png)  
+![Main Dashboard](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/Project%20Showcase/02.png)  
 
 ## **Acknowledgments**
  - Design inspired by modern calculator applications
